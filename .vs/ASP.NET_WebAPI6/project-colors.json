@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffb0a51e-ad82-4ca2-8ae1-30abbb6a6e93": {
+      "ProjectGuid": "ffb0a51e-ad82-4ca2-8ae1-30abbb6a6e93",
+      "DisplayName": "ASP.NET_WebAPI6",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

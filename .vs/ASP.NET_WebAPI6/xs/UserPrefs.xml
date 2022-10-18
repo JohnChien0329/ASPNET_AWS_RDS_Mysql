@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{FFB0A51E-AD82-4CA2-8AE1-30ABBB6A6E93}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ASP.NET__WebAPI6 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP.NET_WebAPI6/Properties/launchSettings.json">
+    <Files>
+      <File FileName="ASP.NET_WebAPI6/Program.cs" Line="19" Column="1" />
+      <File FileName="ASP.NET_WebAPI6/DTO/UserDTO.cs" Line="1" Column="1" />
+      <File FileName="ASP.NET_WebAPI6/Controllers/UserController.cs" Line="1" Column="1" />
+      <File FileName="ASP.NET_WebAPI6/Entities/DBContext.cs" Line="14" Column="10" />
+      <File FileName="ASP.NET_WebAPI6/Entities/User.cs" Line="1" Column="1" />
+      <File FileName="ASP.NET_WebAPI6/appsettings.json" Line="13" Column="1" />
+      <File FileName="ASP.NET_WebAPI6/Properties/launchSettings.json" Line="16" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP.NET_WebAPI6" expanded="True">
+            <Node name="ASP.NET_WebAPI6" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
